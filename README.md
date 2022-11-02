@@ -1,8 +1,6 @@
 👋 Hello World!
  
-I’m Rando. 
-
-👀 I’m currently learning Java and DataBase's.
+I’m Rando. I’m currently learning Java and DataBase's. 👀
 
 
 <!---
