@@ -2,8 +2,8 @@
  
 I’m Rando. 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+👀 I’m currently learning Java and DataBase's.
+
 
 <!---
 - 💞️ I’m looking to collaborate on ...
