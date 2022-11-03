@@ -1,6 +1,8 @@
 👋 Hello World!
  
-I’m Rando. I’m currently learning Java and DataBase's. 👀
+I’m Rando. I have started my journey to discovering the Java World 👀. 
+
+During the learning process so far, I have gained basic knowledge of Java, SQL, JavaScript and Scrum method. 
 
 
 <!---
